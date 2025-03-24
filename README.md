@@ -1,5 +1,7 @@
 # ToDo-Project
+
 There are two links on the navbar of this app. 
+
 This app was developed by using ReactJS. 
 There are two links used by react-router-dom. 
 The First Link is Todo, where we enter the input and add our task. 
